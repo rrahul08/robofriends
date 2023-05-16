@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    }
+
+h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+    font-size: larger;
+   
+}
+
+.gradient{
+    font-family:'SEGA LOGO FONT';
+    background-image: linear-gradient(to right, rgb(136, 96, 208), #5680e9);
+    -webkit-background-clip: text; /* For Safari/Chrome */
+    -moz-background-clip: text; /* For Firefox */
+    background-clip: text;
+    color: transparent;
+  }

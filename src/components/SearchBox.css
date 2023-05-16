@@ -1,0 +1,10 @@
+
+
+.bg-{
+    background-color: #5680e9;
+}
+
+.placeholder-style::placeholder {
+    color:darkgrey;
+    text-align: center;
+}
